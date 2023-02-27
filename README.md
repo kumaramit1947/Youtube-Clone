@@ -56,39 +56,26 @@ References:
   https://youtu.be/FHTbsZEJspU
 
 ****************************************************
+        
+
+![Youtube Clone1](https://user-images.githubusercontent.com/39863626/221680223-7c833557-c07b-4bf6-8f3d-fd24dc899a2f.png)
 
 
-           
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Lenovo/Pictures/Screenshots/Youtube%20Clone1.png?version%3D1677529271894)
+![Youtube Clone2](https://user-images.githubusercontent.com/39863626/221680306-a7aee6de-3c00-4aaa-af33-844021cc6bee.png)
 
 
-
-                     
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone2.png)
+![Youtube Clone3](https://user-images.githubusercontent.com/39863626/221680387-af6ff551-2e57-4907-b24c-6945e0028452.png)
 
 
+![Youtube Clone4](https://user-images.githubusercontent.com/39863626/221680440-4043535d-b62a-443b-9b09-86de5af97a16.png)
 
 
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone3.png)
+![Youtube Clone5](https://user-images.githubusercontent.com/39863626/221680536-776930a6-29da-4199-aa90-467a7679f7f2.png)
 
 
-
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone4.png)
-
+![Youtube Clone6](https://user-images.githubusercontent.com/39863626/221680578-6ec0f3d0-d0e3-4d3f-bd0d-5a6a321cf961.png)
 
 
+![Youtube Clone7](https://user-images.githubusercontent.com/39863626/221680623-5206bb59-b244-4f00-9460-9e23318cfd80.png)
 
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone5.png)
-
-
-
-
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone6.png)
-
-
-
-
-![Alt text](../../../../../../../Pictures/Screenshots/Youtube%20Clone7.png)
-
-
-**********************************************************
+***********************************************************
