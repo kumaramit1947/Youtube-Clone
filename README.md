@@ -25,9 +25,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 *********************************************************************
-Project: Youtube Clone
-Description: Frontend copy of Youtube Web Application, replicating some features...
-Features implemented: 
+## Project: Youtube Clone
+**Description:** Frontend copy of Youtube Web Application, replicating some features...
+
+**Features implemented:** 
   1. Home page feed
   2. Search bar: to search for videos and channels
   3. Side navigation panel
@@ -36,12 +37,13 @@ Features implemented:
   6. Recommendation panel: for the videos related to current video
   7. Video title and statistics
 **************************************
-API provider site: Rapid API -- https://rapidapi.com
+**API provider site**: ***Rapid API*** -- https://rapidapi.com
 
 Youtube API detail from Rapid API :
+
  https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDE2cGlIRkExTnBXZ05tOEgyT2JxWEd5MlhfZ3xBQ3Jtc0ttUS12MW1MVm5tUmlQblBDX2xBWF9ia3NfdTBaR3RsLTM4Vk5MMTVoMkJYUk1QTzRWbzMwUnFtamIzd0kxUGRUYWNaTjQ1ZzVKYWJLZllJZ0s0VU1PVWNCZGxKVjEzbEREVzRGZ2k3aTVSRTRQWHNrOA&q=https%3A%2F%2Frapidapi.com%2Fytdlfree%2Fapi%2Fyoutube-v31%3Futm_source%3Dyoutube.com%252FJavaScriptMastery%26utm_medium%3Dreferral%26utm_campaign%3DDevRel&v=FHTbsZEJspU
 
-Base url of API: https://youtube-v31.p.rapidapi.com/
+**Base url of API:** https://youtube-v31.p.rapidapi.com/
 
 **************************************************
 Tech used: HTML, CSS, Javascript, Material UI, React
@@ -53,6 +55,7 @@ Demo data: Location -- src/utils/constants.js
 References: 
   Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI
   -- Javascript Mastery --
+  
   https://youtu.be/FHTbsZEJspU
 
 ****************************************************
